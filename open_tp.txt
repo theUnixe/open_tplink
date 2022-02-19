@@ -1,0 +1,4 @@
+#tplink open
+
+sudo modprobe r8188eu
+
